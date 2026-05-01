@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geek007git&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geek007git&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
