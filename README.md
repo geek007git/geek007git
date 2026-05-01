@@ -5,16 +5,18 @@
   <a href="https://github.com/geek007git">
     <img src="https://komarev.com/ghpvc/?username=geek007git&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
+  
   <a href="https://huggingface.co/Shanthemach">
     <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat&logo=huggingface" />
   </a>
   <a href="https://www.linkedin.com/in/shanmuga-priyan-91a26a324">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
+  
 </p>
 
 <p align="center">
-  <img height="180" src="https://media.tenor.com/7S6XGQ8kz8kAAAAC/luffy-victory-sign.gif" />
+  <img height="180" src="https://tenor.com/en-IN/view/luffy-victory-sign-v-for-victory-victory-one-piece-gif-23230175" alt="Luffy Victory" />
 </p>
 
 ---
@@ -56,7 +58,8 @@
 ## 🏆 Hackathons & Achievements
 - 🥇 T-Rex Hackathon Finalist (Top teams out of 600+)  
 - ⚡ AMD Hackathon Participant  
-- 🤖 Google GenAI Hackathon Participant  
+- 🤖 Google GenAI Hackathon Finalist
+- 💻 Smart India Hackathon-2025 Finals @Kanpur 
 
 ---
 
