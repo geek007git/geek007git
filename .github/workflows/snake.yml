@@ -8,6 +8,10 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # 🔥 THIS FIXES YOUR ERROR
+
     steps:
       - uses: Platane/snk@v3
         with:
@@ -16,5 +20,6 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 ADD THIS
           target_branch: output
           build_dir: dist
