@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://tenor.com/en-IN/view/luffy-victory-sign-v-for-victory-victory-one-piece-gif-23230175" alt="Luffy Victory" />
+  <img height="180" src="https://raw.githubusercontent.com/geek007git/geek007git/main/lv.gif" alt="Luffy" />
 </p>
 
 ---
