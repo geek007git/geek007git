@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # 🔥 THIS FIXES YOUR ERROR
+      contents: write
 
     steps:
       - uses: Platane/snk@v3
@@ -18,8 +18,9 @@ jobs:
           github_user_name: geek007git
           outputs: dist/github-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push Snake
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 ADD THIS
-          target_branch: output
-          build_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
