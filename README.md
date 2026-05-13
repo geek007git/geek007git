@@ -56,7 +56,7 @@
 ---
 
 ## 🏆 Hackathons & Achievements
-- 🥇 T-Rex Hackathon Finalist (Top teams out of 600+)  
+- 🥇 Threx Hackathon Finalist (Top teams out of 600+)  
 - ⚡ AMD Hackathon Participant  
 - 🤖 Google GenAI Hackathon Finalist
 - 💻 Smart India Hackathon-2025 Finals @Kanpur 
