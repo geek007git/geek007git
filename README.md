@@ -2,9 +2,15 @@
 <h3 align="center">AI Researcher • System Architect • Building Real-World Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geek007git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://huggingface.co/geek007git"><img src="https://img.shields.io/badge/🤗 HuggingFace-Models-yellow?style=flat" alt="HuggingFace" /></a>
-  <a href="https://linkedin.com/in/shanmugapriyan2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://hits.sh/github.com/geek007git/geek007git.svg?label=Profile+Views&extraCount=1200&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;
+  <a href="https://huggingface.co/geek007git">
+    <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat&logo=huggingface" alt="HuggingFace" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/shanmugapriyan2007">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
