@@ -2,9 +2,10 @@
 <h3 align="center">AI Researcher • System Architect • Building Real-World Intelligent Systems</h3>
 
 <p align="center">
-<a href="https://github.com/geek007git">
-  <img src="https://komarev.com/ghpvc/?username=geek007git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</a>
+  <a href="https://github.com/geek007git">
+    <img src="https://komarev.com/ghpvc/?username=geek007git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
   
   <a href="https://huggingface.co/Shanthemach">
     <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat&logo=huggingface" />
