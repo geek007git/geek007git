@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geek007git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://huggingface.co/geek007git"><img src="https://img.shields.io/badge/🤗 HuggingFace-Models-yellow?style=flat" alt="HuggingFace" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/shanmugapriyan2007"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
