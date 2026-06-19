@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://hits.sh/github.com/geek007git/geek007git.svg?label=Profile+Views&extraCount=1200&color=0e75b6&style=flat" alt="Profile Views" />
   &nbsp;
-  <a href="[https://huggingface.co/geek007git](https://huggingface.co/Shanthemach)">
+  <a href="https://huggingface.co/Shanthemach">
     <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat&logo=huggingface" alt="HuggingFace" />
   </a>
   &nbsp;
