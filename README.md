@@ -130,17 +130,21 @@ Multimodal retrieval system for academic document intelligence.
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/geek007git?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/geek007git?style=for-the-badge&logo=github&label=Followers" />
+  <a href="https://github.com/geek007git?tab=repositories">
+    <img
+      height="170"
+      alt="Top languages for geek007git"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek007git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/geek007git?tab=stars">
+    <img alt="Total stars" src="https://img.shields.io/github/stars/geek007git?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b" />
   </a>
   <a href="https://github.com/geek007git?tab=repositories">
-    <img alt="Public repositories" src="https://img.shields.io/badge/Projects-Explore_Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/geek007git?tab=stars">
-    <img alt="Total stars" src="https://img.shields.io/github/stars/geek007git?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" />
-  </a>
-  <a href="https://github.com/geek007git">
-    <img alt="Profile summary" src="https://img.shields.io/badge/Profile-AI%20Research%20%7C%20Space%20Systems-111827?style=for-the-badge" />
+    <img alt="Repositories" src="https://img.shields.io/badge/Projects-Explore_Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
