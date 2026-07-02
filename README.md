@@ -150,7 +150,7 @@ Multimodal retrieval system for academic document intelligence.
 ## GitHub Analytics
 
 <p align="center">
-  <img alt="Repository language usage pie chart" src="assets/language-usage-pie.svg" />
+  <img width="520" alt="Repository language usage pie chart" src="assets/language-usage-pie.svg" />
 </p>
 
 <p align="center">
