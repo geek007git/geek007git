@@ -1,130 +1,163 @@
 <h1 align="center">Shanmugapriyan S</h1>
-<h3 align="center">AI Researcher • System Architect • Building Real-World Intelligent Systems</h3>
+
+<h3 align="center">AI Researcher | System Architect | Building Real-World Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/geek007git/geek007git.svg?label=Profile+Views&extraCount=1200&color=0e75b6&style=flat" alt="Profile Views" />
+  <img alt="Profile Views" src="https://hits.sh/github.com/geek007git/geek007git.svg?label=Profile+Views&extraCount=1200&color=0e75b6&style=flat" />
   &nbsp;
   <a href="https://huggingface.co/Shanthemach">
-    <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat&logo=huggingface" alt="HuggingFace" />
+    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=flat&logo=huggingface" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/shanmugapriyan2007">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/geek007git/geek007git/main/lv.gif" alt="Luffy" />
+  <img alt="Profile animation" height="180" src="https://raw.githubusercontent.com/geek007git/geek007git/main/lv.gif" />
 </p>
 
 ---
 
-## 🧠 Research Focus
-- Large Language Models (LLMs)
-- AI Safety & Alignment  
-- Retrieval-Augmented Generation (RAG)  
-- Multi-Modal AI Systems  
-- Federated & Scalable AI Architectures  
+## Research Focus
+
+- Large Language Models and LLM engineering
+- AI safety, alignment, and inference-time guardrails
+- Retrieval-Augmented Generation and vector search
+- Multimodal AI systems for text, images, and documents
+- Federated, scalable, and deployment-ready AI architectures
 
 ---
 
-## 🔬 Research Contributions
+## Featured Research
 
-### 🔹 Self-Editing AI Agents (SEAA)
-**Lightweight LLM Safety Framework (Inference-Time)**  
-- Chain-of-thought monitoring + rewriting pipeline  
-- **20% harm reduction with 0% false positives**  
-- Built **StudentSafetyBench-50 benchmark**  
+### Self-Editing AI Agents
 
----
+Lightweight inference-time safety framework for LLM applications.
 
-### 🔹 VisionRAG (Multi-Modal Retrieval System)
-**Academic Document Intelligence (Text + Images)**  
-- CLIP + LLaVA + RAG architecture  
-- **82.4% accuracy (+34.7% improvement)**  
-- Dual-encoder + hierarchical chunking pipeline  
+- Chain-of-thought monitoring and rewriting pipeline
+- Reported 20% harm reduction with 0% false positives
+- Built the StudentSafetyBench-50 benchmark
 
----
+### VisionRAG
 
-## 🚀 Systems & Real-World Work
-- 🏗️ AI systems for Tamil Nadu Government & Police  
-- 🤖 LLM-based applications with safety layers  
-- ⚙️ Scalable pipelines (RAG + vector search + deployment)  
+Multimodal retrieval system for academic document intelligence.
+
+- CLIP, LLaVA, and RAG-based architecture
+- Reported 82.4% accuracy with a 34.7% improvement
+- Dual-encoder retrieval with hierarchical chunking
 
 ---
 
-## 🏆 Hackathons & Achievements
-- 🥇 Threx Hackathon Finalist (Top teams out of 600+)  
-- ⚡ AMD Hackathon Participant  
-- 🤖 Google GenAI Hackathon Finalist
-- 💻 Smart India Hackathon-2025 Finals @Kanpur 
+## Systems Work
+
+- AI systems for Tamil Nadu Government and Police use cases
+- LLM applications with practical safety layers
+- RAG, vector search, document intelligence, and deployment pipelines
+- Private AI tools focused on evidence-backed answers
 
 ---
 
-## 🤗 AI Models & Live Systems
+## Hackathons & Achievements
+
+- Threx Hackathon Finalist, top teams out of 600+
+- AMD Hackathon Participant
+- Google GenAI Hackathon Finalist
+- Smart India Hackathon 2025 Finals, Kanpur
+
+---
+
+## AI Models & Live Systems
+
 <p align="center">
   <a href="https://huggingface.co/Shanthemach">
-    <img src="https://img.shields.io/badge/View%20Models-HuggingFace-yellow?style=for-the-badge&logo=huggingface" />
+    <img alt="View HuggingFace models" src="https://img.shields.io/badge/View%20Models-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
 </p>
 
-- GDP Prediction Model → ML-based forecasting  
-- Kappa-Shan Model → Experimental AI system  
-- Multiple AI Spaces → Interactive deployed apps  
+- GDP Prediction Model: ML-based forecasting
+- Kappa-Shan Model: experimental AI system
+- AI Spaces: interactive deployed apps and demos
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🧠 AI / ML
-PyTorch • TensorFlow • HuggingFace • RAG Systems • LLM Engineering  
-AI Safety • Federated Learning • Vector Search • Multi-Modal AI  
-
-### 📊 Data
-NumPy • Pandas • Scikit-learn • ETL Pipelines  
-
-### 🏗️ Backend
-FastAPI • Node.js • REST • GraphQL • Redis • Nginx  
-
-### ☁️ Cloud & DevOps
-AWS • Docker • Kubernetes • Terraform • CI/CD • GitOps  
-
-### 📱 Tools
-Flutter • Gradio  
-
-### 💻 Languages
-Python • C • Java • JavaScript • SQL • Dart • Bash  
-
----
-
-## 📊 GitHub Analytics
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geek007git&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Languages" src="https://skillicons.dev/icons?i=python,js,ts,java,c,dart,bash,html,css" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek007git&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="AI and ML tools" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge" />
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=geek007git&theme=tokyonight" />
+  <img alt="Backend cloud and database tools" src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,graphql,redis,postgres,mongodb,sqlite,docker,kubernetes,terraform,aws,githubactions" />
+</p>
+
+<p align="center">
+  <img alt="Search" src="https://img.shields.io/badge/Hybrid_Search-0F172A?style=for-the-badge" />
+  <img alt="BM25" src="https://img.shields.io/badge/BM25-334155?style=for-the-badge" />
+  <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge" />
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img alt="Observability" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/geek007git/geek007git/output/github-snake.svg" />
+  <img
+    alt="GitHub stats for geek007git"
+    src="https://github-readme-stats.vercel.app/api?username=geek007git&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="Top languages for geek007git"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek007git&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="GitHub streak for geek007git"
+    src="https://streak-stats.demolab.com?user=geek007git&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-## 📫 Contact
-- 📧 shanthemach@gmail.com  
+## Contribution Graph
+
+<p align="center">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/geek007git/geek007git/output/github-snake.svg" />
+</p>
 
 ---
 
-## ⚡ Philosophy
-> Build systems that matter.  
-> Not just models — but deployable, safe, and scalable intelligence.
+## Contact
+
+- Email: shanthemach@gmail.com
+
+---
+
+## Philosophy
+
+> Build systems that matter.
+> Not just models, but deployable, safe, and scalable intelligence.
