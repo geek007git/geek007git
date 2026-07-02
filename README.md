@@ -150,10 +150,6 @@ Multimodal retrieval system for academic document intelligence.
 ## GitHub Analytics
 
 <p align="center">
-  <img width="520" alt="Repository language usage pie chart" src="assets/language-usage-pie.svg" />
-</p>
-
-<p align="center">
   <a href="https://github.com/geek007git?tab=stars">
     <img alt="Total stars" src="https://img.shields.io/github/stars/geek007git?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b" />
   </a>
