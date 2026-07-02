@@ -20,6 +20,14 @@
 
 ---
 
+## Current Status
+
+- Working on systems for ISRO
+- Researcher in satellites, space systems, and intelligent mission-support workflows
+- Building AI systems for space-tech, public-impact applications, and real-world deployment
+
+---
+
 ## Research Focus
 
 - Large Language Models and LLM engineering
@@ -53,6 +61,7 @@ Multimodal retrieval system for academic document intelligence.
 ## Systems Work
 
 - AI systems for Tamil Nadu Government and Police use cases
+- Ongoing systems work connected to ISRO and space-tech workflows
 - LLM applications with practical safety layers
 - RAG, vector search, document intelligence, and deployment pipelines
 - Private AI tools focused on evidence-backed answers
@@ -121,17 +130,20 @@ Multimodal retrieval system for academic document intelligence.
 ## GitHub Analytics
 
 <p align="center">
-  <img
-    alt="GitHub stats for geek007git"
-    src="https://github-readme-stats.vercel.app/api?username=geek007git&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="Top languages for geek007git"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek007git&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <a href="https://github.com/geek007git">
+    <img
+      height="170"
+      alt="GitHub stats for geek007git"
+      src="https://github-readme-stats.vercel.app/api?username=geek007git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
+    />
+  </a>
+  <a href="https://github.com/geek007git?tab=repositories">
+    <img
+      height="170"
+      alt="Top languages for geek007git"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek007git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    />
+  </a>
 </p>
 
 <p align="center">
