@@ -94,7 +94,15 @@ Multimodal retrieval system for academic document intelligence.
 ## Tech Stack
 
 <p align="center">
+  <img alt="Core languages label" src="https://img.shields.io/badge/Core_Languages-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img alt="Languages" src="https://skillicons.dev/icons?i=python,js,ts,java,c,dart,bash,html,css" />
+</p>
+
+<p align="center">
+  <img alt="AI and ML label" src="https://img.shields.io/badge/AI_And_ML-1d4ed8?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -106,7 +114,15 @@ Multimodal retrieval system for academic document intelligence.
 </p>
 
 <p align="center">
+  <img alt="Backend and Cloud label" src="https://img.shields.io/badge/Backend_And_Cloud-0f766e?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img alt="Backend cloud and database tools" src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,graphql,redis,postgres,mongodb,sqlite,docker,kubernetes,terraform,aws,githubactions" />
+</p>
+
+<p align="center">
+  <img alt="Retrieval and Search label" src="https://img.shields.io/badge/Retrieval_And_Search-7c2d12?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -115,6 +131,10 @@ Multimodal retrieval system for academic document intelligence.
   <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
   <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge" />
   <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img alt="Tools and Observability label" src="https://img.shields.io/badge/Tools_And_Observability-b45309?style=for-the-badge" />
 </p>
 
 <p align="center">
