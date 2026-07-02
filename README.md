@@ -91,72 +91,67 @@ Multimodal retrieval system for academic document intelligence.
 
 ---
 
-## Repo Usage Report
+## Tech Stack
 
 <p align="center">
-  <sub>Calculated from 16 public, non-fork repositories. Language percentages use GitHub language bytes; stack percentages show repo coverage.</sub>
+  <img alt="Core languages label" src="https://img.shields.io/badge/Core_Languages-111827?style=for-the-badge" />
 </p>
 
-### Language Usage
-
 <p align="center">
-  <img alt="HTML 62.7 percent" src="https://img.shields.io/badge/HTML-62.7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Python 18.3 percent" src="https://img.shields.io/badge/Python-18.3%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="TypeScript 7.3 percent" src="https://img.shields.io/badge/TypeScript-7.3%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="CSS 4.4 percent" src="https://img.shields.io/badge/CSS-4.4%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript 3.1 percent" src="https://img.shields.io/badge/JavaScript-3.1%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="HCL 1.6 percent" src="https://img.shields.io/badge/HCL-1.6%25-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img alt="PLpgSQL 0.8 percent" src="https://img.shields.io/badge/PLpgSQL-0.8%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Rust 0.6 percent" src="https://img.shields.io/badge/Rust-0.6%25-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="Shell 0.4 percent" src="https://img.shields.io/badge/Shell-0.4%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img alt="Jupyter Notebook 0.3 percent" src="https://img.shields.io/badge/Jupyter-0.3%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="Dockerfile 0.2 percent" src="https://img.shields.io/badge/Dockerfile-0.2%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Nix 0.2 percent" src="https://img.shields.io/badge/Nix-0.2%25-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
-  <img alt="Makefile 0.1 percent" src="https://img.shields.io/badge/Makefile-0.1%25-6D6D6D?style=for-the-badge" />
+  <img alt="Languages" src="https://skillicons.dev/icons?i=python,js,ts,java,c,dart,bash,html,css" />
 </p>
 
-### AI, ML, and Retrieval
-
 <p align="center">
-  <img alt="RAG used in 31.3 percent of repos" src="https://img.shields.io/badge/RAG-31.3%25%20repos-111827?style=for-the-badge" />
-  <img alt="HuggingFace used in 18.8 percent of repos" src="https://img.shields.io/badge/HuggingFace-18.8%25%20repos-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img alt="NLP used in 18.8 percent of repos" src="https://img.shields.io/badge/NLP-18.8%25%20repos-2563EB?style=for-the-badge" />
-  <img alt="Scikit-learn used in 18.8 percent of repos" src="https://img.shields.io/badge/Scikit--learn-18.8%25%20repos-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img alt="PyTorch used in 12.5 percent of repos" src="https://img.shields.io/badge/PyTorch-12.5%25%20repos-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="Gradio used in 12.5 percent of repos" src="https://img.shields.io/badge/Gradio-12.5%25%20repos-FF7C00?style=for-the-badge" />
-  <img alt="TensorFlow used in 6.3 percent of repos" src="https://img.shields.io/badge/TensorFlow-6.3%25%20repos-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="ChromaDB used in 6.3 percent of repos" src="https://img.shields.io/badge/ChromaDB-6.3%25%20repos-7C3AED?style=for-the-badge" />
-  <img alt="Qdrant used in 6.3 percent of repos" src="https://img.shields.io/badge/Qdrant-6.3%25%20repos-DC244C?style=for-the-badge" />
-  <img alt="OpenSearch used in 6.3 percent of repos" src="https://img.shields.io/badge/OpenSearch-6.3%25%20repos-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+  <img alt="AI and ML label" src="https://img.shields.io/badge/AI_And_ML-1d4ed8?style=for-the-badge" />
 </p>
 
-### Backend and Data
-
 <p align="center">
-  <img alt="Node.js used in 31.3 percent of repos" src="https://img.shields.io/badge/Node.js-31.3%25%20repos-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="PostgreSQL used in 31.3 percent of repos" src="https://img.shields.io/badge/PostgreSQL-31.3%25%20repos-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Redis used in 25 percent of repos" src="https://img.shields.io/badge/Redis-25.0%25%20repos-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="FastAPI used in 18.8 percent of repos" src="https://img.shields.io/badge/FastAPI-18.8%25%20repos-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="SQLite used in 12.5 percent of repos" src="https://img.shields.io/badge/SQLite-12.5%25%20repos-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Flask used in 6.3 percent of repos" src="https://img.shields.io/badge/Flask-6.3%25%20repos-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="GraphQL used in 6.3 percent of repos" src="https://img.shields.io/badge/GraphQL-6.3%25%20repos-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img alt="MongoDB used in 6.3 percent of repos" src="https://img.shields.io/badge/MongoDB-6.3%25%20repos-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="AI and ML tools" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge" />
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-### Cloud, DevOps, and Apps
+<p align="center">
+  <img alt="Backend and Cloud label" src="https://img.shields.io/badge/Backend_And_Cloud-0f766e?style=for-the-badge" />
+</p>
 
 <p align="center">
-  <img alt="AWS used in 31.3 percent of repos" src="https://img.shields.io/badge/AWS-31.3%25%20repos-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="Docker used in 25 percent of repos" src="https://img.shields.io/badge/Docker-25.0%25%20repos-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions used in 18.8 percent of repos" src="https://img.shields.io/badge/GitHub_Actions-18.8%25%20repos-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img alt="Terraform used in 18.8 percent of repos" src="https://img.shields.io/badge/Terraform-18.8%25%20repos-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img alt="Kubernetes used in 6.3 percent of repos" src="https://img.shields.io/badge/Kubernetes-6.3%25%20repos-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="Flutter used in 6.3 percent of repos" src="https://img.shields.io/badge/Flutter-6.3%25%20repos-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Backend cloud and database tools" src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,graphql,redis,postgres,mongodb,sqlite,docker,kubernetes,terraform,aws,githubactions" />
+</p>
+
+<p align="center">
+  <img alt="Retrieval and Search label" src="https://img.shields.io/badge/Retrieval_And_Search-7c2d12?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img alt="Search" src="https://img.shields.io/badge/Hybrid_Search-0F172A?style=for-the-badge" />
+  <img alt="BM25" src="https://img.shields.io/badge/BM25-334155?style=for-the-badge" />
+  <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge" />
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img alt="Tools and Observability label" src="https://img.shields.io/badge/Tools_And_Observability-b45309?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img alt="Observability" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
 ## GitHub Analytics
+
+<p align="center">
+  <img alt="Repository language usage pie chart" src="assets/language-usage-pie.svg" />
+</p>
 
 <p align="center">
   <a href="https://github.com/geek007git?tab=stars">
