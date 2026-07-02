@@ -132,9 +132,8 @@ Multimodal retrieval system for academic document intelligence.
 <p align="center">
   <a href="https://github.com/geek007git?tab=repositories">
     <img
-      height="170"
-      alt="Top languages for geek007git"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek007git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
+      alt="Repository language usage for geek007git"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geek007git&theme=tokyonight"
     />
   </a>
 </p>
